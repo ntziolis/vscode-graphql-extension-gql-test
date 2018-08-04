@@ -1,0 +1,6 @@
+query Test{   
+    posts{
+        content
+        title
+    }
+}

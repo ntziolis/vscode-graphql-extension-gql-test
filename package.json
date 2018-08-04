@@ -1,0 +1,12 @@
+{
+  "name": "gql-tag",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "0.13.2",
+    "graphql-tag": "2.9.2",
+    "typescript": "2.9.2"
+  }
+}
